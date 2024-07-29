@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Lenga</h1>
-<h3 align="center">Backend developer </h3>
+<h3 align="center">AI Engineer</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=320x240&vertical=top"
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=andrewlenga&label=Profile%20views&color=0e75b6&style=flat" alt="andrewlenga" /> </p>
 
