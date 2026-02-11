@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andrew Lenga</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=320x240&vertical=top"
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=andrewlenga&label=Profile%20views&color=0e75b6&style=flat" alt="andrewlenga" /> </p>
 
-- 🔭 I’m currently working on **Django project**
+- 🔭 I’m currently working on **Full-stacck projects**
 
-- 🌱 I’m currently learning **ReactNative**
+- 🌱 I’m currently learning **ReactThree Fiber**
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **andrewlenga21@gmail.com**
 
-- ⚡ Fun fact **Am cool**
+- ⚡ Fun fact **I am cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
