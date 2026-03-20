@@ -1,5 +1,5 @@
 <h1 align="center">Andrew Lenga</h1>
-<h3 align="center">🚀 Software Engineer </h3>
+<h3 align="center">🚀 Hardware and Software Engineer  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=andrewlenga&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
